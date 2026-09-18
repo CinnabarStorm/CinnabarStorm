@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="54" viewBox="0 0 760 54" role="img" aria-label="Making complex AI understandable. Turning ideas into useful products.">
+<defs><linearGradient id="ink"><stop stop-color="#43b9c9"/><stop offset=".52" stop-color="#5da7d8"/><stop offset="1" stop-color="#f3a847"/></linearGradient><clipPath id="reveal"><rect x="0" y="0" width="760" height="54"><animate attributeName="width" values="0;760;760" keyTimes="0;.65;1" dur="7s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="380" y="36" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700" fill="url(#ink)" clip-path="url(#reveal)">Making complex AI understandable · Building useful things</text>
+</svg>

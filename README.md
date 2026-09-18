@@ -2,67 +2,137 @@
 
 # Ryan Zhu · 创野小朱
 
-**AI 科普内容创作者 · 网络安全背景 · 产品工程实践者**
+#### AI Science Creator · Cybersecurity @ Johns Hopkins University · Builder
 
-毕业于 Johns Hopkins University 网络安全专业，现居南京。把复杂技术讲成看得懂的故事，也把想法做成可用的产品。
+<img src="profile-typing.svg" alt="Making complex AI understandable; turning ideas into useful products" width="760" />
 
-[当前账号](https://github.com/CinnabarStorm) · [公开项目](https://github.com/serarcherryan?tab=repositories) · [贡献轨迹](#-contribution-journey)
+<p>
+  <a href="https://github.com/CinnabarStorm"><img alt="GitHub CinnabarStorm" src="https://img.shields.io/badge/GITHUB-CINNABARSTORM-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/serarcherryan?tab=repositories"><img alt="Public work" src="https://img.shields.io/badge/PUBLIC-WORK-39b8c8?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#-contribution-journey"><img alt="GitHub and Codex journey" src="https://img.shields.io/badge/CONTRIBUTION-GITHUB_%2B_CODEX-f3a847?style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🚀 “把复杂的 AI 讲清楚，把有价值的想法做出来。”
+
+*Explain complex AI clearly. Turn useful ideas into working products.*
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="57%" valign="top">
+      <h2>👋 Who I Am</h2>
+      <p>我是 <strong>Ryan Zhu（创野小朱）</strong>，毕业于 <strong>Johns Hopkins University</strong>，专业是<strong>网络安全</strong>，现居<strong>南京</strong>。</p>
+      <p>我正在创作 <strong>AI 科普内容</strong>：通过故事、实验和动画，把大模型、Agent 与安全技术讲得准确而易懂。我也参与软件产品的设计和实现，关注创作流程与真实业务场景中的效率问题。</p>
+    </td>
+    <td width="43%" valign="top">
+      <h2>⚡ At a Glance</h2>
+      <pre><code>name:     Ryan Zhu / 创野小朱
+school:   Johns Hopkins University
+major:    Cybersecurity
+location: Nanjing, China
+role:     AI Science Creator
+focus:    AI · Security · Product</code></pre>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔭 Currently Building & Exploring
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Building</h3>
+      <ul>
+        <li>创作 AI 科普视频，把复杂概念转化为易懂的故事和画面</li>
+        <li>打磨从选题、脚本、分镜到素材与动画的制作流程</li>
+        <li>参与无人机巡检平台等产品的功能设计与迭代</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Exploring</h3>
+      <ul>
+        <li>AI Agent 的可靠性、边界与安全评估</li>
+        <li>用 Codex 和可复用工作流连接创意与交付</li>
+        <li>让 AI 实验过程更可观察、更容易复现</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tech & Creative Stack
+
+<div align="center">
+
+<img src="stack-icons.svg" alt="Python, TypeScript, JavaScript, Vue, Git, GitHub, Codex, AI Agents, cybersecurity and video storytelling" width="760" />
+
+</div>
+
+|  | 常用工具与方法 |
+| --- | --- |
+| 🧠 **Engineering** | Python · TypeScript / JavaScript · Vue · Git / GitHub |
+| 🤖 **AI Workflow** | Codex · AI Agent · 可复用创作流程 |
+| 🎨 **Content Creation** | 技术拆解 · 脚本 · 分镜 · 动画素材 |
+| 🛡️ **Security** | 网络安全研究 · AI 安全议题 |
+
+---
+
+## 🏗️ Selected Work & Projects
+
+| 🔗 Project | 🎯 Focus | 🛠️ My Contribution |
+| --- | --- | --- |
+| **无人机巡检平台** | 无人机与机场协同的巡检业务 | 参与直播回传、机场控制界面，以及动态接口与菜单权限等功能的设计和迭代。 |
+| **AI 科普视频与创作工作流** | AI 与安全主题的可视化表达 | 从选题和口播稿到分镜与动画素材，建立可复用的制作流程，并持续改进相关工具。 |
+| [AI-Jailbreak-Paper](https://github.com/serarcherryan/AI-Jailbreak-Paper) | 大模型越狱与安全对齐 | 整理相关论文，记录方法、局限与后续问题。 |
+| [OpenClaw-Security-Paper](https://github.com/serarcherryan/OpenClaw-Security-Paper) | AI Agent 安全研究 | 汇集论文摘要与研究观察。 |
+
+---
+
+## 📌 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top"><strong>🚁 无人机巡检平台</strong><br />巡检业务 · 直播回传 · 机场控制 · 权限设计</td>
+    <td width="50%" valign="top"><strong>🎬 AI 科普创作</strong><br />技术拆解 · 故事设计 · 分镜 · 动画工作流</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>🛡️ <a href="https://github.com/serarcherryan/AI-Jailbreak-Paper">AI Jailbreak Paper</a></strong><br />大模型安全与对齐研究资料</td>
+    <td width="50%" valign="top"><strong>🤖 <a href="https://github.com/serarcherryan/OpenClaw-Security-Paper">OpenClaw Security Paper</a></strong><br />AI Agent 安全论文与观察</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+公开项目与代码记录分布在 [@serarcherryan](https://github.com/serarcherryan?tab=repositories) 和当前账号 [@CinnabarStorm](https://github.com/CinnabarStorm?tab=repositories)。[查看过往账号的 GitHub 贡献图](https://github.com/serarcherryan#user-activity-overview)。
+
+<div align="center">
+
+<a href="https://github.com/serarcherryan?tab=repositories"><img alt="Selected public GitHub work across research and product projects" src="github-activity.svg" width="760" /></a>
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## 🐍 Contribution Journey
 
-我是 Ryan Zhu，毕业于 **Johns Hopkins University**，专业是**网络安全**，目前在**南京**从事 **AI 科普内容创作**。我以「创野小朱」为名，用故事、实验和动画解释 AI 与安全技术；同时参与软件产品的设计和实现，让内容生产与真实业务流程更高效。
+GitHub 记录公开项目，Codex 记录需求拆解、设计、实现、素材制作与迭代。下面是 **Codex 可访问任务的近期更新日快照**，与 GitHub 提交次数口径不同。
 
-| ⚡ At a Glance |  |
-| --- | --- |
-| **学校** | Johns Hopkins University |
-| **专业** | 网络安全 |
-| **所在地** | 中国 · 南京 |
-| **当前工作** | AI 科普内容创作 |
-| **关注方向** | AI × 技术内容、Agent 工作流、网络安全、产品工程 |
-| **创作方式** | 技术拆解 → 故事设计 → 视觉呈现 → 验证迭代 |
-| **工程方式** | 发现流程问题 → 设计工具 → 实现功能 → 交付使用 |
-| **当前账号** | [@CinnabarStorm](https://github.com/CinnabarStorm) |
-| **过往公开项目** | [@serarcherryan](https://github.com/serarcherryan) |
+<div align="center">
 
-## 🔭 Currently Building & Exploring
+<img src="codex-journey.svg" alt="Codex recent task update activity from August 20 to September 16, 2026" width="920" />
 
-| 正在做 | 持续探索 |
-| --- | --- |
-| 创作 AI 科普内容，将大模型、Agent 与安全主题转化为易懂的视频 | 如何让多模型实验过程更可观察、更可复现 |
-| 打磨脚本、分镜、图片素材与视频制作的工作流 | 如何用 Codex 和可复用技能连接创意与交付 |
-| 参与无人机巡检平台等项目的功能设计和迭代 | AI Agent 的可靠性、边界与安全评估 |
-
-## 🧰 Toolbox
-
-`Python` · `TypeScript / JavaScript` · `Vue` · `AI Agent` · `Codex` · `GitHub` · `视频分镜与动画工作流` · `网络安全研究`
-
-> 工具会变；我更在意能否把问题讲清楚、做出来，并在真实使用中继续改进。
-
-## 🏗️ Selected Projects
-
-| 项目 | 工作内容 |
-| --- | --- |
-| **无人机巡检平台** | 参与无人机与机场直播回传、机场控制界面，以及动态接口与菜单权限等功能的设计和迭代。 |
-| **AI 科普视频与创作工作流** | 从选题、口播稿到分镜与动画素材，建立可复用的内容制作流程，并持续改进相关工具。 |
-| [AI-Jailbreak-Paper](https://github.com/serarcherryan/AI-Jailbreak-Paper) | 整理大模型越狱与安全对齐相关论文，并记录方法、局限与后续问题。 |
-| [OpenClaw-Security-Paper](https://github.com/serarcherryan/OpenClaw-Security-Paper) | 汇集 AI Agent 安全相关论文摘要与观察。 |
-
-## 🧭 Contribution Journey
-
-我的工作同时发生在代码仓库和 Codex 任务中。GitHub 展示公开代码与项目；Codex 记录需求拆解、设计、实现、素材制作和迭代过程。两者统计口径不同，因此分开展示。
-
-| GitHub · 公开代码 | Codex · 近期任务记录 |
-| --- | --- |
-| [查看过往账号的 GitHub 贡献图](https://github.com/serarcherryan#user-activity-overview) 与 [公开仓库](https://github.com/serarcherryan?tab=repositories)。当前账号为 [@CinnabarStorm](https://github.com/CinnabarStorm)。 | 下方图表展示 2026-08-20 至 2026-09-16 可访问的近期任务更新日快照；它不代表提交次数或 Codex 全部使用量。 |
-
-![Codex 近期任务更新记录](codex-journey.svg)
+</div>
 
 <details>
-<summary><strong>查看部分 Codex 工作记录</strong></summary>
+<summary><strong>查看部分 Codex 工作记录与统计说明</strong></summary>
 
 | 最近更新 | 任务 | 主题 |
 | --- | --- | --- |
@@ -72,16 +142,18 @@
 | 2026-08-29 | 总结视频风格并创建生成 Skill | 视频风格拆解与复用 |
 | 2026-08-20 | 新增分布式主题创作 | 创作工作台功能设计与实现 |
 
-*记录日期为任务最近更新时间；以上是选摘，不代表全部工作。*
+记录日期为任务最近更新时间。图表范围为 2026-08-20 至 2026-09-16，不代表 Codex 全部使用量。
 
 </details>
 
-## 🤝 Let's Connect
+---
 
-如果你也在探索 AI 内容、产品工作流或安全研究，欢迎通过 [GitHub](https://github.com/CinnabarStorm) 交流。
+## 一起把复杂技术讲清楚
+
+如果你也关注 AI 科普、产品工作流或安全研究，欢迎通过 [GitHub](https://github.com/CinnabarStorm) 交流。
 
 <div align="center">
 
-<sub>Build clearly. Create thoughtfully. Keep shipping.</sub>
+<sub>Made with curiosity, clarity, and a commitment to useful work.</sub>
 
 </div>
