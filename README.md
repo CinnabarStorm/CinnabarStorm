@@ -2,9 +2,9 @@
 
 # Ryan Zhu · 创野小朱
 
-**技术内容创作者 · AI 工作流构建者 · 软件产品实践者**
+**AI 科普内容创作者 · 网络安全背景 · 产品工程实践者**
 
-把复杂技术讲成看得懂的故事，把重复流程做成真正可用的工具。
+毕业于 Johns Hopkins University 网络安全专业，现居南京。把复杂技术讲成看得懂的故事，也把想法做成可用的产品。
 
 [当前账号](https://github.com/CinnabarStorm) · [公开项目](https://github.com/serarcherryan?tab=repositories) · [贡献轨迹](#-contribution-journey)
 
@@ -14,10 +14,14 @@
 
 ## 👋 Who I Am
 
-我是 Ryan Zhu，也以「创野小朱」持续创作技术内容。我关注 AI、网络安全与产品工程：从选题、脚本、分镜到动画素材，探索更清晰、更有画面感的技术表达；从需求、原型到工具和业务系统，尝试把创作与协作中的复杂流程沉淀为可复用的工作流。
+我是 Ryan Zhu，毕业于 **Johns Hopkins University**，专业是**网络安全**，目前在**南京**从事 **AI 科普内容创作**。我以「创野小朱」为名，用故事、实验和动画解释 AI 与安全技术；同时参与软件产品的设计和实现，让内容生产与真实业务流程更高效。
 
 | ⚡ At a Glance |  |
 | --- | --- |
+| **学校** | Johns Hopkins University |
+| **专业** | 网络安全 |
+| **所在地** | 中国 · 南京 |
+| **当前工作** | AI 科普内容创作 |
 | **关注方向** | AI × 技术内容、Agent 工作流、网络安全、产品工程 |
 | **创作方式** | 技术拆解 → 故事设计 → 视觉呈现 → 验证迭代 |
 | **工程方式** | 发现流程问题 → 设计工具 → 实现功能 → 交付使用 |
@@ -28,9 +32,9 @@
 
 | 正在做 | 持续探索 |
 | --- | --- |
-| 将 AI 竞技与安全主题转化为有叙事张力的视频内容 | 如何让多模型实验过程更可观察、更可复现 |
+| 创作 AI 科普内容，将大模型、Agent 与安全主题转化为易懂的视频 | 如何让多模型实验过程更可观察、更可复现 |
 | 打磨脚本、分镜、图片素材与视频制作的工作流 | 如何用 Codex 和可复用技能连接创意与交付 |
-| 参与业务系统、权限与交互功能的设计和实现 | AI Agent 的可靠性、边界与安全评估 |
+| 参与无人机巡检平台等项目的功能设计和迭代 | AI Agent 的可靠性、边界与安全评估 |
 
 ## 🧰 Toolbox
 
@@ -38,14 +42,14 @@
 
 > 工具会变；我更在意能否把问题讲清楚、做出来，并在真实使用中继续改进。
 
-## 📌 Selected Public Work
+## 🏗️ Selected Projects
 
-| 项目 | 公开内容 |
+| 项目 | 工作内容 |
 | --- | --- |
+| **无人机巡检平台** | 参与无人机与机场直播回传、机场控制界面，以及动态接口与菜单权限等功能的设计和迭代。 |
+| **AI 科普视频与创作工作流** | 从选题、口播稿到分镜与动画素材，建立可复用的内容制作流程，并持续改进相关工具。 |
 | [AI-Jailbreak-Paper](https://github.com/serarcherryan/AI-Jailbreak-Paper) | 整理大模型越狱与安全对齐相关论文，并记录方法、局限与后续问题。 |
 | [OpenClaw-Security-Paper](https://github.com/serarcherryan/OpenClaw-Security-Paper) | 汇集 AI Agent 安全相关论文摘要与观察。 |
-| [Tabnapping-Detector](https://github.com/serarcherryan/Tabnapping-Detector) | 浏览器安全方向的公开项目。 |
-| [ResumeAI](https://github.com/serarcherryan/ResumeAI) | 简历与 AI 应用方向的公开项目。 |
 
 ## 🧭 Contribution Journey
 
